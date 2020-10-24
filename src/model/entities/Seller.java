@@ -51,7 +51,7 @@ public class Seller implements Serializable{
 	public Date getBrithDate() {
 		return brithDate;
 	}
-	public void setBrithDate(Date brithDate) {
+	public void setBirthDate(Date brithDate) {
 		this.brithDate = brithDate;
 	}
 
